@@ -6,12 +6,12 @@ spring:
 spring:
   profiles: dev     #开发环境
   application: 
-    name: microservicecloud-config-hc-dev
+    name: cloud2020-config-hc-dev
 ---
 spring:
   profiles: test   #测试环境
   application: 
-    name: microservicecloud-config-hc-test
+    name: cloud2020-config-hc-test
 #  请保存为UTF-8格式
  
  
